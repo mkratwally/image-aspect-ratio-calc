@@ -1,0 +1,1 @@
+function ratio(w, h) { return `${w}:${h}`; } module.exports = { ratio };
